@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isIndexMode from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-mode@deno/mod.js';
+import isIndexMode from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-mode@v0.1.0-deno/mod.js';
 ```
 
 #### isIndexMode( value )
@@ -91,7 +91,7 @@ bool = isIndexMode( 'wrap' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isIndexMode from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-mode@deno/mod.js';
+import isIndexMode from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-mode@v0.1.0-deno/mod.js';
 
 var bool = isIndexMode( 'throw' );
 // returns true
