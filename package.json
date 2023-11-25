@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-contains": "^0.1.0",
-    "@stdlib/ndarray-index-modes": "^0.1.1"
+    "@stdlib/ndarray-index-modes": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
