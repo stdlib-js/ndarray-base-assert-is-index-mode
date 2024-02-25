@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-assert-is-index-mode",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Test if an input value is a supported ndarray index mode.",
   "license": "Apache-2.0",
   "author": {
@@ -37,17 +37,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-assert-contains": "^0.2.0",
-    "@stdlib/ndarray-index-modes": "^0.2.0"
+    "@stdlib/array-base-assert-contains": "^0.2.1",
+    "@stdlib/ndarray-index-modes": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.0",
-    "@stdlib/math-base-special-floor": "^0.2.0",
-    "@stdlib/random-base-randu": "^0.1.0",
+    "@stdlib/assert-is-boolean": "^0.2.1",
+    "@stdlib/math-base-special-floor": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
